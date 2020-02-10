@@ -1,0 +1,32 @@
+
+body{
+ 	
+ 	/*font-family: 'Inconsolata', monospace;
+ 	font-size: 20px;
+*/
+}
+
+.Iconsolata{
+	font-family: 'Inconsolata', monospace;
+ 	font-size: 20px;
+
+}
+
+.Anton{
+	font-family: 'Anton', sans-serif;
+}
+.tallRow{
+	height: 300px;
+}
+
+.mediumRow{
+	height: 100px;
+}
+
+.badcolor{
+	background-color: orange;
+}
+
+.center{
+	text-align: center;
+}
